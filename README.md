@@ -4,7 +4,7 @@ I was borned in 1998, Undergraduated based in Seoul, Korea, with a keen interest
 
 #### 🛠 Tech Stack
 - Programming Languages: Python, C++, Java
-- Frameworks: Django, Tensorflow, Pytorch
+- Frameworks: Tensorflow, Pytorch
 
 
 #### 🌱 I’m currently learning
