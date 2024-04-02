@@ -1,6 +1,6 @@
 ### I'm Minjun Jang 👋
 
-I was borned in 1998, Undergraduated based in Seoul, Korea, with a keen interest in Artificial Intelligence. I'm currently studying at Seoul National University.
+I was born in 1998, Undergraduated based in Seoul, Korea, with a keen interest in Artificial Intelligence. I'm currently studying at Seoul National University.
 
 #### 🛠 Tech Stack
 - Programming Languages: Python, C++, Java
