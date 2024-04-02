@@ -1,16 +1,17 @@
-### Hi there 👋
+### I'm Minjun Jang 👋
 
-<!--
-**junnystateofmind/junnystateofmind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I was borned in 1998, Undergraduated based in Seoul, Korea, with a keen interest in Artificial Intelligence. I'm currently studying at Seoul National University.
 
-Here are some ideas to get you started:
+#### 🛠 Tech Stack
+- Programming Languages: Python, C++, Java
+- Frameworks: Django, Tensorflow, Pytorch
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+#### 🌱 I’m currently learning
+- Aiming for a deeper understanding of Computer Vision, Natural Language Processing.
+
+#### 📫 How to reach me
+- Email: jun1557@snu.ac.kr
+- Instagram: [@junnystateofmind](https://instagram.com/junnstateofmind)
+
+![Your github stats](https://github-readme-stats.vercel.app/api?username=junnystateofmind&show_icons=true)
