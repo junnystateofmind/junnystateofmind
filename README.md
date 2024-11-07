@@ -7,8 +7,8 @@ I was born in 1998, Undergraduated based in Seoul, Korea, with a keen interest i
 - Frameworks: Tensorflow, Pytorch
 
 
-#### 🌱 I’m currently learning
-- Aiming for a deeper understanding of Computer Vision, Natural Language Processing.
+#### 🌱 Interest
+- On-device AI, Multi-modal AI
 
 #### 📫 How to reach me
 - Email: jun1557@snu.ac.kr
