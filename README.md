@@ -8,7 +8,7 @@ I was born in 1998, Undergraduated based in Seoul, Korea, with a keen interest i
 
 
 #### 🌱 Interest
-- On-device AI, Multi-modal AI
+- On-device AI, Multi-modal AI, sLM
 
 #### 📫 How to reach me
 - Email: jun1557@snu.ac.kr
