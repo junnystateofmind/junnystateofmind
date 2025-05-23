@@ -4,11 +4,11 @@ I was born in 1998, Undergraduated based in Seoul, Korea, with a keen interest i
 
 #### 🛠 Tech Stack
 - Programming Languages: Python, C++, Java
-- Frameworks: Tensorflow, Pytorch
+- Frameworks: Tensorflow, Pytorch, 
 
 
 #### 🌱 Interest
-- On-device AI, Multi-modal AI, sLM
+- AI Agent System
 
 #### 📫 How to reach me
 - Email: jun1557@snu.ac.kr
