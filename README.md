@@ -1,37 +1,25 @@
-> AI Agent Builder & Systems Engineer — 폐쇄망 환경에서 AI 코딩 에이전트를 가동하고, 자동화 파이프라인을 구축한다.
+### Minjun Jang 👋
 
-Seoul, Korea 🇰🇷 | SNU Undergrad | Born 1998
+Seoul, Korea 🇰🇷 | Born 1998 | B.Eng. (조선해양공학, SNU, '26)
 
 ---
 
 #### 🛠 Tech Stack
 
-| Category | Tools |
+| Category | Tools & Tech |
 |---|---|
-| **Languages** | Python, C++, Java, TypeScript |
-| **AI/LLM** | PyTorch, TensorFlow, vLLM, HuggingFace, LLM App Dev |
-| **Agent Framework** | Hermes Agent, Claude Code, ACP, Sub-agents |
-| **Infrastructure** | Linux, Docker, K8s, SSH, Tailscale, NVIDIA GPU |
-| **DevOps** | Node.js, npm, GitHub Actions, Cron |
-| **Tools** | Discord Bot, gh CLI, Terminal UI |
-
----
-
-#### 🔥 Currently Building
-
-- **[Hermes Agent](https://github.com/nousresearch/hermes-agent)** — Open-source autonomous AI agent framework with multi-platform support, skill system, and cron automation
-- **[airgap-repo-design-doc-writer](https://github.com/junnystateofmind/airgap-repo-design-doc-writer)** — 에어갭 환경에서 레포 전체 아키텍처 문서를 자동 생성하는 Hermes Agent Skill
-- **[claude-digest](https://github.com/nousresearch/hermes-agent/tree/main/skills/claude-digest)** — 멀티서버 Claude Code 세션 수집·요약·Discord 발송 파이프라인
+| **Languages** | Python, TypeScript, C++, Java |
+| **AI/LLM** | PyTorch, vLLM, LLM-D, FastAPI |
+| **Infrastructure** | Docker, Kubernetes, NVIDIA GPU |
+| **DevOps** | Jenkins, ArgoCD |
 
 ---
 
 #### 💡 Interests
 
-- AI Agent Systems & Agentic Workflows
-- Air-gapped / Offline LLM Deployment
-- Automated Codebase Understanding & Onboarding
-- Self-improving AI Agents
-- Developer Tooling
+- AI Agent Architecture & Orchestration
+- LLM Inference & Serving
+- Systems Programming
 
 ---
 
